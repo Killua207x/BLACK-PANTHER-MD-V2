@@ -39,33 +39,33 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['💙𝙼𝚘𝚑𝚊𝚖𝚎𝚎𝚍💙']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['ᴍᴏʜᴀᴍᴇᴇᴅ💙']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+212609536856'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = '💙𝙼𝚘𝚑𝚊𝚖𝚎𝚎𝚍💙'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '💙bleu Panther Bot mohameed💙'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©Bleu panther💙.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://github.com/Killia207x/BLACK-PANTHER-MD-V2'
 
-global.region = 'Sri lanka, North Central Province, Anuradhapura'
+global.region = '𝐄𝐬𝐩𝐚𝐧, 𝐌𝐚𝐝𝐫𝐢𝐝, 𝐒𝐚𝐧𝐭𝐢𝐚𝐠𝐨-𝐛𝐞𝐫𝐧𝐚𝐛𝐞𝐮'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = 'https://github.com/Killua207x/BLACK-PANTHER-MD-V2'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://tiktok.com/@x2eb2'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = 'هــز ولاڪـــيـــن مـــتـــعـــيـــقـــش🙃'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '[Meed💙😒][+212609536856]'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
+global.prefa = ['','!','.','💙','🖤','❤']
 
 global.sp = '◈'
 
